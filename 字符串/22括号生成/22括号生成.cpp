@@ -50,6 +50,7 @@ public:
 };
 */
 //试探回溯法
+/*
 class Solution {
 public:
 	vector<string> res;
@@ -81,7 +82,22 @@ public:
 		}
 	}
 };
-//
+*/
+//动态规划法
+class Solution {
+public:
+	vector<string> generateParenthesis(int n) {
+		vector<vector<string>> dp(n + 1); //每一个元素保留的是所在下标可能的结果
+		dp[0] = { "" };
+		dp[1] = { "()" };
+		for (int i = 2; i <= n; ++i)
+			for (int j = 0; j < i; ++j)
+				for (string p : dp[j])
+					for (string q : dp[i - j - 1])
+						dp[i].push_back('(' + p + ')' + q);
+		return dp[n];
+	}
+};
 
 int main()
 {
