@@ -48,14 +48,14 @@ public:
 		}
 		cout << "a" << endl;
 		//看左下角有没有Q
-		for (int i = row - 1, j = col - 1; i >= 0, j >= 0; --i, --j)
+		for (int i = row - 1, j = col - 1; i >= 0&& j >= 0; --i, --j)
 		{
 			if (board[i][j] == 'Q')
 				return false;
 		}
 		cout << "a" << endl;
 		//看右下角有没有Q
-		for (int i = row - 1, j = col + 1; i >= 0, j < board.size(); --i, ++j)
+		for (int i = row - 1, j = col + 1; i >= 0 && j < board.size(); --i, ++j)
 		{
 			cout << i << j << endl;
 			if (board[i][j] == 'Q')

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数学", "数学\数学.vcxproj", "{1565242E-FB71-4849-83CF-93F8350E7820}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "50求数x的n次幂", "50求数x的n次幂\50求数x的n次幂.vcxproj", "{AB78DA9E-DF37-45D6-820E-B9F7ED3EC8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1565242E-FB71-4849-83CF-93F8350E7820}.Debug|x64.ActiveCfg = Debug|x64
+		{1565242E-FB71-4849-83CF-93F8350E7820}.Debug|x64.Build.0 = Debug|x64
+		{1565242E-FB71-4849-83CF-93F8350E7820}.Debug|x86.ActiveCfg = Debug|Win32
+		{1565242E-FB71-4849-83CF-93F8350E7820}.Debug|x86.Build.0 = Debug|Win32
+		{1565242E-FB71-4849-83CF-93F8350E7820}.Release|x64.ActiveCfg = Release|x64
+		{1565242E-FB71-4849-83CF-93F8350E7820}.Release|x64.Build.0 = Release|x64
+		{1565242E-FB71-4849-83CF-93F8350E7820}.Release|x86.ActiveCfg = Release|Win32
+		{1565242E-FB71-4849-83CF-93F8350E7820}.Release|x86.Build.0 = Release|Win32
+		{AB78DA9E-DF37-45D6-820E-B9F7ED3EC8B0}.Debug|x64.ActiveCfg = Debug|x64
+		{AB78DA9E-DF37-45D6-820E-B9F7ED3EC8B0}.Debug|x64.Build.0 = Debug|x64
+		{AB78DA9E-DF37-45D6-820E-B9F7ED3EC8B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB78DA9E-DF37-45D6-820E-B9F7ED3EC8B0}.Debug|x86.Build.0 = Debug|Win32
+		{AB78DA9E-DF37-45D6-820E-B9F7ED3EC8B0}.Release|x64.ActiveCfg = Release|x64
+		{AB78DA9E-DF37-45D6-820E-B9F7ED3EC8B0}.Release|x64.Build.0 = Release|x64
+		{AB78DA9E-DF37-45D6-820E-B9F7ED3EC8B0}.Release|x86.ActiveCfg = Release|Win32
+		{AB78DA9E-DF37-45D6-820E-B9F7ED3EC8B0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E87EBCCA-06F5-46E0-8B72-5D41D75B6221}
+	EndGlobalSection
+EndGlobal
