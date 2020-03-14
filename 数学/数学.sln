@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "50求数x的n次幂", "50�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "56合并区间", "56合并区间\56合并区间.vcxproj", "{C49286F3-4DFB-4720-BF3C-107622D97BDF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "59螺旋矩阵2", "59螺旋矩阵2\59螺旋矩阵2.vcxproj", "{B73F2FBC-6CFB-4009-96E1-A8FD625EB876}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{C49286F3-4DFB-4720-BF3C-107622D97BDF}.Release|x64.Build.0 = Release|x64
 		{C49286F3-4DFB-4720-BF3C-107622D97BDF}.Release|x86.ActiveCfg = Release|Win32
 		{C49286F3-4DFB-4720-BF3C-107622D97BDF}.Release|x86.Build.0 = Release|Win32
+		{B73F2FBC-6CFB-4009-96E1-A8FD625EB876}.Debug|x64.ActiveCfg = Debug|x64
+		{B73F2FBC-6CFB-4009-96E1-A8FD625EB876}.Debug|x64.Build.0 = Debug|x64
+		{B73F2FBC-6CFB-4009-96E1-A8FD625EB876}.Debug|x86.ActiveCfg = Debug|Win32
+		{B73F2FBC-6CFB-4009-96E1-A8FD625EB876}.Debug|x86.Build.0 = Debug|Win32
+		{B73F2FBC-6CFB-4009-96E1-A8FD625EB876}.Release|x64.ActiveCfg = Release|x64
+		{B73F2FBC-6CFB-4009-96E1-A8FD625EB876}.Release|x64.Build.0 = Release|x64
+		{B73F2FBC-6CFB-4009-96E1-A8FD625EB876}.Release|x86.ActiveCfg = Release|Win32
+		{B73F2FBC-6CFB-4009-96E1-A8FD625EB876}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
