@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "递归迭代二分查找排序堆图", "递归迭代二分查找排序堆图\递归迭代二分查找排序堆图.vcxproj", "{81946C91-AEA2-4BB3-B10D-7F45B21A64EF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "80删除排序数组中的重复项2", "80删除排序数组中的重复项2\80删除排序数组中的重复项2.vcxproj", "{B4B86FC6-31F7-4C7E-AC7C-297151EF9FAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{81946C91-AEA2-4BB3-B10D-7F45B21A64EF}.Release|x64.Build.0 = Release|x64
 		{81946C91-AEA2-4BB3-B10D-7F45B21A64EF}.Release|x86.ActiveCfg = Release|Win32
 		{81946C91-AEA2-4BB3-B10D-7F45B21A64EF}.Release|x86.Build.0 = Release|Win32
+		{B4B86FC6-31F7-4C7E-AC7C-297151EF9FAA}.Debug|x64.ActiveCfg = Debug|x64
+		{B4B86FC6-31F7-4C7E-AC7C-297151EF9FAA}.Debug|x64.Build.0 = Debug|x64
+		{B4B86FC6-31F7-4C7E-AC7C-297151EF9FAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4B86FC6-31F7-4C7E-AC7C-297151EF9FAA}.Debug|x86.Build.0 = Debug|Win32
+		{B4B86FC6-31F7-4C7E-AC7C-297151EF9FAA}.Release|x64.ActiveCfg = Release|x64
+		{B4B86FC6-31F7-4C7E-AC7C-297151EF9FAA}.Release|x64.Build.0 = Release|x64
+		{B4B86FC6-31F7-4C7E-AC7C-297151EF9FAA}.Release|x86.ActiveCfg = Release|Win32
+		{B4B86FC6-31F7-4C7E-AC7C-297151EF9FAA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

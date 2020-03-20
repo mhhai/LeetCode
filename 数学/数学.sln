@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "59螺旋矩阵2", "59螺旋
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "66加一", "66加一\66加一.vcxproj", "{87D4EFC9-24F1-4970-8482-87D6F13B8938}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "73矩阵置0", "73矩阵置0\73矩阵置0.vcxproj", "{E096D966-4ECF-4A71-BB3F-0E79973C3BB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{87D4EFC9-24F1-4970-8482-87D6F13B8938}.Release|x64.Build.0 = Release|x64
 		{87D4EFC9-24F1-4970-8482-87D6F13B8938}.Release|x86.ActiveCfg = Release|Win32
 		{87D4EFC9-24F1-4970-8482-87D6F13B8938}.Release|x86.Build.0 = Release|Win32
+		{E096D966-4ECF-4A71-BB3F-0E79973C3BB1}.Debug|x64.ActiveCfg = Debug|x64
+		{E096D966-4ECF-4A71-BB3F-0E79973C3BB1}.Debug|x64.Build.0 = Debug|x64
+		{E096D966-4ECF-4A71-BB3F-0E79973C3BB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{E096D966-4ECF-4A71-BB3F-0E79973C3BB1}.Debug|x86.Build.0 = Debug|Win32
+		{E096D966-4ECF-4A71-BB3F-0E79973C3BB1}.Release|x64.ActiveCfg = Release|x64
+		{E096D966-4ECF-4A71-BB3F-0E79973C3BB1}.Release|x64.Build.0 = Release|x64
+		{E096D966-4ECF-4A71-BB3F-0E79973C3BB1}.Release|x86.ActiveCfg = Release|Win32
+		{E096D966-4ECF-4A71-BB3F-0E79973C3BB1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
