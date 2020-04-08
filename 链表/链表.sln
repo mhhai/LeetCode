@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "83删除排序链表中重�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2两数相加", "2两数相加\2两数相加.vcxproj", "{AFBBEA17-3943-4C2E-AFEC-3FAB6740499E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24两两交换链表中的节点", "24两两交换链表中的节点\24两两交换链表中的节点.vcxproj", "{EFAFAF15-11DB-4A5F-9DE2-3BA79DE323D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{AFBBEA17-3943-4C2E-AFEC-3FAB6740499E}.Release|x64.Build.0 = Release|x64
 		{AFBBEA17-3943-4C2E-AFEC-3FAB6740499E}.Release|x86.ActiveCfg = Release|Win32
 		{AFBBEA17-3943-4C2E-AFEC-3FAB6740499E}.Release|x86.Build.0 = Release|Win32
+		{EFAFAF15-11DB-4A5F-9DE2-3BA79DE323D9}.Debug|x64.ActiveCfg = Debug|x64
+		{EFAFAF15-11DB-4A5F-9DE2-3BA79DE323D9}.Debug|x64.Build.0 = Debug|x64
+		{EFAFAF15-11DB-4A5F-9DE2-3BA79DE323D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFAFAF15-11DB-4A5F-9DE2-3BA79DE323D9}.Debug|x86.Build.0 = Debug|Win32
+		{EFAFAF15-11DB-4A5F-9DE2-3BA79DE323D9}.Release|x64.ActiveCfg = Release|x64
+		{EFAFAF15-11DB-4A5F-9DE2-3BA79DE323D9}.Release|x64.Build.0 = Release|x64
+		{EFAFAF15-11DB-4A5F-9DE2-3BA79DE323D9}.Release|x86.ActiveCfg = Release|Win32
+		{EFAFAF15-11DB-4A5F-9DE2-3BA79DE323D9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
